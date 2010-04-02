@@ -121,6 +121,7 @@ on boot
 # Hardware features
     setprop hw.nobattery true
     setprop hw.nophone true
+    setprop hw.nopm true
 
 # GPU not supported
     setprop debug.egl.hw 0
