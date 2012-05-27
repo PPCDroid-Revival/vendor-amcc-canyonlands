@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/canyonlands.mk 
+	$(LOCAL_DIR)/full_canyonlands.mk
