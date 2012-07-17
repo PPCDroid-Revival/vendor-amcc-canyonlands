@@ -13,6 +13,7 @@ BUILD_WITH_ALSA_UTILS := true
 USE_CUSTOM_RUNTIME_HEAP_MAX := "64M"
 TARGET_USERIMAGES_USE_EXT4 := true
 TARGET_BOOTIMAGE_USE_EXT2 := true
+BOARD_HAVE_BLUETOOTH := true
 
 # We do not want the Android build system to try and assemble any sort
 # of images with U-Boot or the Linux Kernel in them, so we set these
