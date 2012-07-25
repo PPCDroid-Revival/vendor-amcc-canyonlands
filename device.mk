@@ -11,4 +11,3 @@ PRODUCT_COPY_FILES := \
 
 PRODUCT_PACKAGES := \
 		    alsa.default \
-		    libffi
